@@ -40,7 +40,6 @@ venv3/
 *.gch
 *.pch
 # - Compiled Dynamic libraries
-*.so
 *.dylib
 *.dll
 # - Compiled Static libraries
